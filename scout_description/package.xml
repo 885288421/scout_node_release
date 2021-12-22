@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package>
+  <name>scout_description</name>
+  <version>0.0.1</version>
+  <description>AgileX Scout Husky URDF description</description>
+
+  <author email="tang___xi@163.com">885288421</author>
+
+  <maintainer email="tang___xi@163.com">885288421</maintainer>
+
+  <url type="website">http://ros.org/wiki/scout_description</url>
+  <url type="bugtracker">https://github.com/husky/husky/issues</url>
+  <url type="repository">https://github.com/husky/husky</url>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roslaunch</build_depend>
+  <run_depend>urdf</run_depend>
+  <run_depend>xacro</run_depend>
+  <run_depend>lms1xx</run_depend>
+  <export>
+  </export>
+</package>
